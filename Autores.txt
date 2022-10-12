@@ -4,6 +4,5 @@
 852369741,carlos,mexico
 98765432,Yolo,Lituania
 638541729,Peter Parker,Estados Unidos
-1028037549,Tomas,Afganistan
-1000640347,Tomas Isaza,Colombiano
 172839,Anibal Gaviria,peruana
+987654321,Mario Mendoza,Colombiano

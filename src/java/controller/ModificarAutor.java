@@ -40,7 +40,7 @@ public class ModificarAutor extends HttpServlet {
             Autor autor = new Autor(cedula, nombre, nacionalidad);
             ServletContext sc = this.getServletContext();
             GuardaAutor.ActualizarAutor(autor,"C:/Biblioteca/Autores.txt");
-            request.getRequestDispatcher("/InicioAdmin.jsp").forward(request, response);
+            request.getRequestDispatcher("/InicioAdminAutor.jsp").forward(request, response);
         }
     }
 

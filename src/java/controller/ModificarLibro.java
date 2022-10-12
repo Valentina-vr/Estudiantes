@@ -43,7 +43,7 @@ public class ModificarLibro extends HttpServlet {
             Libros libro = new Libros(nombre, isbn, editorial, genero, publicacion, autor);
             ServletContext sc = this.getServletContext();
             GuardaLibro.ActualizarLibro(libro,"C:/Biblioteca/Libros.txt");
-            request.getRequestDispatcher("/InicioAdmin.jsp").forward(request, response);
+            request.getRequestDispatcher("/InicioAdminLibro.jsp").forward(request, response);
         }
     }
 

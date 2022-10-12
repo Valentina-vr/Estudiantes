@@ -42,7 +42,7 @@
         <p> Numero de registros : <%= libros.size()%></p>
         <% libros.clear();%>
         <br>
-        <form action="InicioAdminLibros.jsp" method="post">
+        <form action="InicioAdminLibro.jsp" method="post">
             <input class="btn btn-primary" type="submit" value="Regresar">
         </form>
     </body>

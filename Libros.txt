@@ -1,3 +1,5 @@
 lola,12345,mess,mess,1998,mess
 No Mekatos,789456,Morrocoy,Infantil,2021,yanfry
 Cargame,789456,Tiktok,Infantil,2021,yanfry
+lady masacre,2846,Planeta,Misterio,2014,Mario Mendoza
+El principito,654789,Planeta,Infantil,1942,Antoine de Saint-Exupéry

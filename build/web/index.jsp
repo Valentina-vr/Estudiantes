@@ -11,12 +11,12 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Biblioteca</title>
     </head>
-<body >
+<body>
     
     <%@ page import="controller.Consultar" %>
     <br>
     
-    <h1 style="text-align: center" >Bienvenido!</h1>
+    <h1 style="text-align: center" >¡Bienvenido!</h1>
     <h1 style="text-align: center" >Login</h1>
     <form action="Consultar" method="post" style="text-align: center">
         <div style="text-align: center">

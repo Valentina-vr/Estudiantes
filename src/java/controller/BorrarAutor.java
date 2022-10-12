@@ -38,7 +38,7 @@ public class BorrarAutor extends HttpServlet {
             ServletContext sc = this.getServletContext();
             GuardaAutor.delete(cedula,"C:/Biblioteca/Autores.txt");
             System.out.println("Consola");
-            request.getRequestDispatcher("/InicioAdmin.jsp").forward(request, response);
+            request.getRequestDispatcher("/InicioAdminAutor.jsp").forward(request, response);
         }
     }
 
